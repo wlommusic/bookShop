@@ -1,0 +1,16 @@
+[
+    {
+        "id": "0001",
+        "title": "The Psychology of Money",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41r6F2LRf8L._SX323_BO1,204,203,200_.jpg",
+        "description": "Timeless lessons on wealth, greed, and happiness",
+        "price": "3000"
+    },
+    {
+        "id": "0002",
+        "title": "Metro 2033",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51smHWpvm9L._SX327_BO1,204,203,200_.jpg",
+        "description": "The basis of three bestselling computer games Metro 2033 and Metro Last Light, and Metro: Exodus",
+        "price": "7860"
+    }
+]
